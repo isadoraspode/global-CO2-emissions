@@ -18,7 +18,7 @@ An end-to-end data analysis project on global carbon dioxide emissions from 1990
 6. [Data model](#data-model)
 7. [DAX measures](#dax-measures)
 8. [Methodological notes and limitations](#methodological-notes-and-limitations)
-9. [What I learned](#what-i-learned)
+9. [What I learned!](#what-i-learned)
 10. [How to open the project](#how-to-open-the-project)
 
 ---
