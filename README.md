@@ -4,7 +4,7 @@ An end-to-end data analysis project on global carbon dioxide emissions from 1990
 
 > The dashboard itself is in Portuguese. This README is in English.
 
-![Overview page](images/01-overview.png)
+![Overview page](images/05-Brazil.png)
 
 ---
 
